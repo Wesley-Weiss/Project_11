@@ -23,7 +23,7 @@ const bookGradients: Record<string, string> = {
   "Nehemiah": "linear-gradient(to right, #373B44, #4286f4)",
   "Esther": "linear-gradient(to right, #FDC830, #F37335)",
   "Job": "linear-gradient(to right, #355C7D, #6C5B7B)",
-  "Psalms": "linear-gradient(to right, #ff9966, #ff5e62)",
+  "Psalm": "linear-gradient(to right, #ff9966, #ff5e62)",
   "Proverbs": "linear-gradient(to right, #56CCF2, #2F80ED)",
   "Ecclesiastes": "linear-gradient(to right, #4B79A1, #283E51)",
   "Song of Solomon": "linear-gradient(to right, #FFB6C1, #FF69B4)",
