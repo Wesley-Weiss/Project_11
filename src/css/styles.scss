@@ -1,0 +1,25 @@
+/*Psalms 119:105 Your word is a Lamp to my feet and a light to my path.*/
+body {
+  
+   $text-color: white;
+  .app {
+      height: 100vh;
+      #quote-box {
+         width: fit-content;
+         max-width: 80vw;
+         background: rgb(24, 20, 20);
+         padding: 20px;
+         border-radius: 10px;
+         
+
+         button {
+            color: $text-color;
+         }
+
+         a {
+            color: $text-color;
+         }
+      }
+  }
+}
+
