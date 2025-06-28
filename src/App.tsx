@@ -78,7 +78,7 @@ const bookGradients: Record<string, string> = {
 
 const App = () => {
   const bookNameOnly = useSelector((state:AppState ) => state.bookNameOnly);
-  const gradient = bookGradients[bookNameOnly] || "#ffffff";
+  const gradient = bookGradients[bookNameOnly] || "linear-gradient(to right, #42275a, #734b6d)";
 
   return (
     <motion.div
